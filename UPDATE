@@ -1,0 +1,5 @@
+Patch 1.01 / May 3rd, 2022
+
+Added comments to the code.
+Added a link to Prim's Algorithm in the help menu to reduce difficulty.
+Fixed the bug where the timer is set to 60 seconds after restarting the game.
